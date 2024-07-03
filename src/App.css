@@ -14,8 +14,8 @@
   }
 }
 
-.App-header {
-  background-image: linear-gradient(#8ea3cc,#58657e); 
+/*.App-header {
+  background-image: linear-gradient(#b6ddec,#7f94b9); 
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -23,11 +23,24 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
-}
+}*/
 
 .App-link {
   color: #61dafb;
 }
+input{
+  padding: 6px;
+  margin-bottom: 10px;
+}
+.one-half{
+  display:block;
+}
+.column{
+  width: 100%;
+  float: left;
+  box-sizing: border-box;
+}
+
 
 @keyframes App-logo-spin {
   from {
