@@ -17,7 +17,7 @@ function App() {
         <div className="contenedor">
           <div className="one-half">
             <h1 className="titulo2">CREAR MI CITA</h1>
-
+            
           </div>
         </div>
       </div>
