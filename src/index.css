@@ -17,6 +17,13 @@ body {
   width: 100%;
   box-sizing: border-box;
 }
+.botonform{
+  width: 20%;
+  box-sizing: border-box;
+  padding: 6px;
+  font-size: large;
+  color: rgb(156, 156, 156);
+}
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
